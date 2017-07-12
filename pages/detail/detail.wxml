@@ -1,0 +1,4 @@
+<!--detail.wxml-->
+<view class="container">
+  <view class="txt">Test Details</view>
+</view>
